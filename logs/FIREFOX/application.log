@@ -1,0 +1,16 @@
+[logsFIREFOX INFO ] 2021-09-18 17:13:54.616 NativeMethodAccessorImpl:28 - This is the info message
+[logsFIREFOX DEBUG] 2021-09-18 17:13:54.621 NativeMethodAccessorImpl:29 - This is the debug message
+[logsFIREFOX ERROR] 2021-09-18 17:13:54.621 NativeMethodAccessorImpl:30 - This is the error message
+[logsFIREFOX WARN ] 2021-09-18 17:13:54.621 NativeMethodAccessorImpl:31 - This is the warning message
+[logsFIREFOX INFO ] 2021-09-18 17:14:59.513 NativeMethodAccessorImpl:28 - This is the info message
+[logsFIREFOX DEBUG] 2021-09-18 17:14:59.517 NativeMethodAccessorImpl:29 - This is the debug message
+[logsFIREFOX ERROR] 2021-09-18 17:14:59.517 NativeMethodAccessorImpl:30 - This is the error message
+[logsFIREFOX WARN ] 2021-09-18 17:14:59.518 NativeMethodAccessorImpl:31 - This is the warning message
+[logsFIREFOX INFO ] 2021-09-18 17:30:32.887 TestLog4j:35 - This is the info message
+[logsFIREFOX DEBUG] 2021-09-18 17:30:32.892 TestLog4j:36 - This is the debug message
+[logsFIREFOX ERROR] 2021-09-18 17:30:32.892 TestLog4j:37 - This is the error message
+[logsFIREFOX WARN ] 2021-09-18 17:30:32.892 TestLog4j:38 - This is the warning message
+[logsFIREFOX INFO ] 2021-09-18 17:31:50.324 demo.TestLog4j:35 - This is the info message
+[logsFIREFOX DEBUG] 2021-09-18 17:31:50.328 demo.TestLog4j:36 - This is the debug message
+[logsFIREFOX ERROR] 2021-09-18 17:31:50.328 demo.TestLog4j:37 - This is the error message
+[logsFIREFOX WARN ] 2021-09-18 17:31:50.329 demo.TestLog4j:38 - This is the warning message

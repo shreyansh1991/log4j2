@@ -1,0 +1,12 @@
+[logsSAFARI INFO ] 2021-09-18 17:14:59.571 NativeMethodAccessorImpl:28 - This is the info message
+[logsSAFARI DEBUG] 2021-09-18 17:14:59.575 NativeMethodAccessorImpl:29 - This is the debug message
+[logsSAFARI ERROR] 2021-09-18 17:14:59.575 NativeMethodAccessorImpl:30 - This is the error message
+[logsSAFARI WARN ] 2021-09-18 17:14:59.575 NativeMethodAccessorImpl:31 - This is the warning message
+[logsSAFARI INFO ] 2021-09-18 17:30:32.918 TestLog4j:35 - This is the info message
+[logsSAFARI DEBUG] 2021-09-18 17:30:32.924 TestLog4j:36 - This is the debug message
+[logsSAFARI ERROR] 2021-09-18 17:30:32.924 TestLog4j:37 - This is the error message
+[logsSAFARI WARN ] 2021-09-18 17:30:32.925 TestLog4j:38 - This is the warning message
+[logsSAFARI INFO ] 2021-09-18 17:31:50.356 demo.TestLog4j:35 - This is the info message
+[logsSAFARI DEBUG] 2021-09-18 17:31:50.375 demo.TestLog4j:36 - This is the debug message
+[logsSAFARI ERROR] 2021-09-18 17:31:50.375 demo.TestLog4j:37 - This is the error message
+[logsSAFARI WARN ] 2021-09-18 17:31:50.376 demo.TestLog4j:38 - This is the warning message

@@ -1,0 +1,12 @@
+[logsEDGE INFO ] 2021-09-18 17:14:59.557 NativeMethodAccessorImpl:28 - This is the info message
+[logsEDGE DEBUG] 2021-09-18 17:14:59.561 NativeMethodAccessorImpl:29 - This is the debug message
+[logsEDGE ERROR] 2021-09-18 17:14:59.561 NativeMethodAccessorImpl:30 - This is the error message
+[logsEDGE WARN ] 2021-09-18 17:14:59.562 NativeMethodAccessorImpl:31 - This is the warning message
+[logsEDGE INFO ] 2021-09-18 17:30:32.902 TestLog4j:35 - This is the info message
+[logsEDGE DEBUG] 2021-09-18 17:30:32.906 TestLog4j:36 - This is the debug message
+[logsEDGE ERROR] 2021-09-18 17:30:32.908 TestLog4j:37 - This is the error message
+[logsEDGE WARN ] 2021-09-18 17:30:32.908 TestLog4j:38 - This is the warning message
+[logsEDGE INFO ] 2021-09-18 17:31:50.341 demo.TestLog4j:35 - This is the info message
+[logsEDGE DEBUG] 2021-09-18 17:31:50.345 demo.TestLog4j:36 - This is the debug message
+[logsEDGE ERROR] 2021-09-18 17:31:50.345 demo.TestLog4j:37 - This is the error message
+[logsEDGE WARN ] 2021-09-18 17:31:50.345 demo.TestLog4j:38 - This is the warning message

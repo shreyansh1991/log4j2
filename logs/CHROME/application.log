@@ -1,0 +1,16 @@
+[logsCHROME INFO ] 2021-09-18 17:13:54.542 NativeMethodAccessorImpl:28 - This is the info message
+[logsCHROME DEBUG] 2021-09-18 17:13:54.577 NativeMethodAccessorImpl:29 - This is the debug message
+[logsCHROME ERROR] 2021-09-18 17:13:54.577 NativeMethodAccessorImpl:30 - This is the error message
+[logsCHROME WARN ] 2021-09-18 17:13:54.578 NativeMethodAccessorImpl:31 - This is the warning message
+[logsCHROME INFO ] 2021-09-18 17:14:59.441 NativeMethodAccessorImpl:28 - This is the info message
+[logsCHROME DEBUG] 2021-09-18 17:14:59.478 NativeMethodAccessorImpl:29 - This is the debug message
+[logsCHROME ERROR] 2021-09-18 17:14:59.478 NativeMethodAccessorImpl:30 - This is the error message
+[logsCHROME WARN ] 2021-09-18 17:14:59.479 NativeMethodAccessorImpl:31 - This is the warning message
+[logsCHROME INFO ] 2021-09-18 17:30:32.819 TestLog4j:35 - This is the info message
+[logsCHROME DEBUG] 2021-09-18 17:30:32.853 TestLog4j:36 - This is the debug message
+[logsCHROME ERROR] 2021-09-18 17:30:32.853 TestLog4j:37 - This is the error message
+[logsCHROME WARN ] 2021-09-18 17:30:32.853 TestLog4j:38 - This is the warning message
+[logsCHROME INFO ] 2021-09-18 17:31:50.256 demo.TestLog4j:35 - This is the info message
+[logsCHROME DEBUG] 2021-09-18 17:31:50.289 demo.TestLog4j:36 - This is the debug message
+[logsCHROME ERROR] 2021-09-18 17:31:50.290 demo.TestLog4j:37 - This is the error message
+[logsCHROME WARN ] 2021-09-18 17:31:50.290 demo.TestLog4j:38 - This is the warning message
